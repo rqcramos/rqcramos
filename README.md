@@ -1,38 +1,72 @@
-### 🌍 "with me there are no limits, everything is possible " ☕
+<a href="https://rramos.dev">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg" />
+    <img src="./assets/header-dark.svg" alt="Rodrigo Ramos, Full Stack Developer, with his handwritten signature" width="100%" />
+  </picture>
+</a>
 
-<h3> 🛠 &nbsp;Developing in </h3>
-<img width="50%" align="right" src= "https://lanyard.cnrad.dev/api/439553801075163136?hideBadges=true">
+<br />
 
+I design and build complete digital products, from the data model to the interface, and take them all the way to production.
 
+I started programming on my own and never stopped. Today I work across every layer of a product: database, API, interface and infrastructure, almost always in TypeScript end to end. Alongside my degree, I build my own projects, always chasing the same thing: software that is simple to use, fast and dependable.
 
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![php](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=lua)
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-- ⚙️ &nbsp;
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-- 🖥 &nbsp;
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![light Room](https://img.shields.io/badge/-LightRoom-333333?style=flat&logo=adobe-lightroom)
- ![premiere](https://img.shields.io/badge/-Premiere-333333?style=flat&logo=adobe-premiere-pro)
+**[rramos.dev](https://rramos.dev)** &nbsp;·&nbsp; [hello@rramos.dev](mailto:hello@rramos.dev) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/rodrigoqcramos) &nbsp;·&nbsp; [X](https://x.com/rqcramos)
 
+<br />
 
-- ⌚️ &nbsp;
-![](https://komarev.com/ghpvc/?username=kramosprog&color=blue)
+### Selected work
 
+<a href="https://emcurso.pt">
+  <img src="./assets/emcurso.jpg" alt="EmCurso.PT: interactive map of civil-protection incidents across Portugal" width="100%" />
+</a>
 
+**[EmCurso.PT](https://emcurso.pt)** &nbsp;<sub>2026</sub><br />
+Civil-protection platform for Portugal: live ANEPC incidents, IPMA weather warnings and wildfire risk on an interactive map.<br />
+<sub>Next.js · MapLibre · PostgreSQL</sub>
 
-<br/>
+<br />
 
-[![Twitch Badge](https://img.shields.io/badge/-Twitch-7532a8?style=flat-square&labelColor=7532a8&logo=twitch&logoColor=white&link=https://twitch.tv/kramosoz)](https://twitch.tv/kramosoz) [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCF0z5YjiR4UVf86dNXFNxQQ)](https://www.youtube.com/channel/UCF0z5YjiR4UVf86dNXFNxQQ)
+<a href="https://api.emcurso.pt">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/api-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/api-light.svg" />
+    <img src="./assets/api-dark.svg" alt="Sample GeoJSON response from the EmCurso.PT public API" width="100%" />
+  </picture>
+</a>
 
+**[API.EmCurso.PT](https://api.emcurso.pt)** &nbsp;<sub>2026</sub><br />
+Public REST API serving ANEPC incidents, IPMA alerts and fire-risk data as JSON and GeoJSON, refreshed within 30 seconds of the source.<br />
+<sub>Next.js · TypeScript · PostgreSQL · GeoJSON</sub>
 
+<br />
 
+| Project | Year | What it is | Built with |
+| :-- | :-- | :-- | :-- |
+| **Management dashboard** | 2025 | A custom internal dashboard for seeing everything that matters on one screen. | React, TypeScript, PostgreSQL |
+| **LinceAPI** | 2023 | A scalable API for data processing. | Next.js, Web3, PostgreSQL, Tailwind |
+| **TrackIt** | 2023 | High-performance tracking for logistics and deliveries. | Node, PostgreSQL, Docker |
 
+<sub>Internal projects, no public access.</sub>
 
+<br />
+
+### Stack
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/stack-light.svg" />
+  <img src="./assets/stack-dark.svg" alt="Stack: React, Next.js, TypeScript, Tailwind CSS, MapLibre, Three.js, Node.js, PostgreSQL, Redis, GraphQL, REST and GeoJSON, Docker, AWS, Linux, CI/CD, microservices, system design, clean code" width="100%" />
+</picture>
+
+<br />
+
+### Right now
+
+- Building **EmCurso.PT** and its public API.
+- Open to projects, collaborations or a conversation about technology. Write to **[hello@rramos.dev](mailto:hello@rramos.dev)**.
+
+<br />
+
+<sub><img src="./assets/portugal.svg" height="13" alt="" />&nbsp; Made in Portugal &nbsp;·&nbsp; © 2026 Rodrigo Ramos</sub>
